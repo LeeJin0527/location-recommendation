@@ -1,2 +1,3 @@
 # software-project
-[프로젝트 계획서 .pdf](https://github.com/LeeJin0527/software-project/files/5186405/default.pdf)
+"나의 창업! 어디에서 시작하는 것이 좋을까?"
+창업자를 위한 입지 선정 추천 서비스 
